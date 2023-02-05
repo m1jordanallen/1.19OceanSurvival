@@ -1,2 +1,2 @@
-# 1.19OceanSurvival
+# 1.19 Ocean Survival
 Ocean Survival Modpack
